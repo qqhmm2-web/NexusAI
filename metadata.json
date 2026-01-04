@@ -1,0 +1,9 @@
+{
+  "name": "Nexus AI Pro",
+  "description": "A world-class AI platform featuring advanced text reasoning, high-fidelity image generation, real-time voice conversations, and web-connected search capabilities, inspired by the best-in-class UI/UX standards.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
